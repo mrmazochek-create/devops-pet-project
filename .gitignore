@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+env/
+venv/
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+*.kubeconfig
+*.env
+secrets/
